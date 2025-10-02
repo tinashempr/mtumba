@@ -1,2 +1,2 @@
 # mtumba
-uy &amp; sell thrift fashion locally, faster.
+Buy &amp; sell thrift fashion locally, faster.
