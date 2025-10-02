@@ -1,4 +1,4 @@
-# mtumba
+# Mtumba
 Mtumba – A mobile-first thrift marketplace for Nairobi.
 An MVP app where thrift sellers can upload clothes with photos, prices, and details, and buyers can browse, filter, and connect with sellers directly via WhatsApp/Instagram. Built with React Native (Expo) for the frontend and Supabase for backend (auth, database, storage).
 
